@@ -1,0 +1,28 @@
+name: SolidState
+favicon: null
+layout_spectrum: 0.1462984513491392
+typography_spectrum: 0.6888344581238925
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6003282915335149
+  lightness: 0.07698837528005242
+  saturation: 0.12521754251793027
+  rhythmicContrast: 0.6228085900656879
+purpose: []
